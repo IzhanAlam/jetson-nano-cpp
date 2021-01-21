@@ -1,2 +1,1 @@
-# jetson-nano-setup
-Setting up jetson nano 
+# jetson-nano-cpp 
